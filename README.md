@@ -72,3 +72,5 @@ $input-focus-border-color: $orange-200;
   --#{$prefix}input-focus-border-color: #{$input-focus-border-color};
 }
 ```
+
+Ce dépôt est un miroir officiel du dépôt Edifice : https://github.com/edificeio/ode-bootstrap
